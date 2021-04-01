@@ -1,7 +1,2 @@
-
-
-
-
-
-
 LSP21SCM95X
+LSP21SCM51M
